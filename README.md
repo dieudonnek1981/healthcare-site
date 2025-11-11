@@ -1,4 +1,4 @@
-# WeHelp Home Care Services Website
+# WeHelp Home Health Care Services Website
 
 This is the codebase for the WeHelp Home Care Services website, a static site designed to provide information about the business and generate leads through local search engine optimization (SEO).
 
@@ -73,3 +73,4 @@ healthcare-site
 └─ tailwind.config.js
 
 ```
+
