@@ -1,10 +1,10 @@
-# WeHelp Home Care Services Website
+# WeHelp Home Health Care Services Website
 
 This is the codebase for the WeHelp Home Care Services website, a static site designed to provide information about the business and generate leads through local search engine optimization (SEO).
 
 ## Project Purpose
 
-The primary goal of this website is to establish an online presence for WeHelp Home Care Services, inform potential clients about the available in-home care services, and improve visibility in local search results to generate business leads.
+The primary goal of this website is to establish an online presence for WeHelp Home Health Care Services, inform potential clients about the available in-home care services, and improve visibility in local search results to generate business leads.
 
 ## Technology Stack
 
@@ -73,3 +73,4 @@ healthcare-site
 └─ tailwind.config.js
 
 ```
+
